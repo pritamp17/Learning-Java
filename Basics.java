@@ -10,6 +10,18 @@ public class Main {
         System.out.println("Main.main");   /// shortcut using sout
 
         // variables  ******************************
+     # variables in java
+
+       /* Primitives types
+        are used to store simple values
+        boolen
+        byte   -> -128 <--> 127
+        short  -> -32,768 <--> 32,767
+        char
+        int   ->    -2147483648 <--> 2147483647
+        long
+        float
+        double */
         int num1 = 10;
         int num2 = 10;
         int res = num1 + num2;
